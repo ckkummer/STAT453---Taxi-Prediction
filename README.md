@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The intent of this project is to provide the opportunity to apply a multitude of Neural Network variants to identify the variability, effecicacy, and practice the implementation on a real-world problem.
+As a whole: The intent of this project is to provide the opportunity to apply a multitude of Neural Network variants to identify the variability, effecicacy, and practice the implementation on a real-world problem.
+
+Clariy--> 
 
 ## Data
 
